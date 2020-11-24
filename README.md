@@ -19,6 +19,10 @@ O site que você irá desenvolver possui duas páginas:
 Preparamos pra você o Layout que deve ser desenvolvido:
 [Layout no Figma](https://www.figma.com/file/gedYbNMalFBJRN0wulXUxP/Untitled?node-id=0%3A1)
 
+Para obter as imagens dos pokémons, poderá utilizar os endereços:<br/>
+[Exemplo site 1](https://assets.pokemon.com/assets/cms2/img/pokedex/detail/001.png)<br/>
+[Exemplo site 2](https://pokeres.bastionbot.org/images/pokemon/1.png)
+
 ### Restrições Técnicas
 
 O projeto deve ser desenvolvido em React Native.
